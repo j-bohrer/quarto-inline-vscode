@@ -4,7 +4,7 @@
   "description": "Display code chunk outputs inline in Quarto documents",
   "version": "0.1.0",
   "engines": {
-    "vscode": "^1.85.0"
+    "vscode": "^1.106.0"
   },
   "categories": [
     "Other"
